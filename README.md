@@ -6,6 +6,6 @@
 
 This project is not intended to reproduce the results in the paper. 
 The generated images displayed below were produced by the model which
- was trained for 100 epochs.
+ had trained for 100 epochs.
 
 ![alt text](./mnist.png)
